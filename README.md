@@ -20,7 +20,7 @@ A simple and elegant blog application built with React, allowing users to create
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/neelayr/react-blog-app.git
+   git clone [https://github.com/neelayr/react-blog-app.git](https://github.com/NEELAYr/Blog-App.git)
 2. Navigate to the project directory:
    cd react-blog-app
 3. Install the dependencies:
